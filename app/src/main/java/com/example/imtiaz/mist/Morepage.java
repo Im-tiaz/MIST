@@ -92,7 +92,7 @@ public class Morepage extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
 
-            }
+            }//
         });
 
         AlertDialog alertDialog = builder.create();
